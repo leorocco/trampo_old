@@ -1,0 +1,99 @@
+
+
+body{
+	background-image:url('1726.png');
+}
+
+#menu_home{
+	width: 80%;
+	margin: auto;
+	padding: 40px;
+}
+
+#inputPesq{
+	width:40%;
+	margin-left:10%;
+}
+
+#consulta{
+	width: 70%;
+	margin:auto;
+}
+
+#consulta h1{
+	text-align: center;
+} 
+
+#msg{
+	color: white;
+	background-image:url('fundo-biblio.jpg');
+	background-size:100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+#msg h1{
+	text-shadow: 0px 0px 10px black, 0px 0px 10px black;
+	padding-top: 5px;
+	padding: 10px;
+	font-size:40pt;
+	font-weight: bolder;
+}
+
+#msg h2{
+	text-shadow: 0px 0px 10px black, 0px 0px 10px black;
+	padding: 10px;
+	font-size:25pt;
+}
+
+#livros_tb{
+	background-color: white;
+	width: 80%;
+	margin:auto;
+	font-size: 8pt;
+}
+
+
+
+#alerta{
+	margin: auto;
+	width: 80%;
+}
+
+#destaques{
+	width: 80%;
+	margin: auto;
+	padding: 40px;
+	padding-bottom: 50px;
+	padding-top: 10px;
+} 
+ 
+#menu_lateral{
+	width:15%;
+	margin: 35px;
+	margin-left: 10%;
+}
+ 
+#rodape{
+	margin-top:20px;
+	padding-top:10px;
+	padding-bottom:1px;
+	-moz-box-shadow: -1px -8px 32px #000000;
+	-webkit-box-shadow: -1px -8px 32px #000000;
+	box-shadow: -1px -8px 52px #000000;
+	background-color:gray;
+	font-family:arial;
+	width:100%;
+	
+	text-align:center;
+	background-image:url('img/fundo_marcadagua_rodape.png');
+	background-repeat:no-repeat;
+}
+
+#logo{
+	float:right;
+	padding:10px;
+}
